@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ruixue Zheng, you can call me Sherlyn :)
 
-🎓 Incoming M.Sc. student in Data Science at The University of Hong Kong.
+🎓 M.Sc. student in Data Science at The University of Hong Kong.
 Previously earned a B.S. in Computer Science from Beijing Normal University and studied as an exchange student at UC Berkeley.
 
 ## 👨‍💻 About Me
