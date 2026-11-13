@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Ruixue Zheng, you can call me Sherlyn :)
+# Hi 👋 I'm Sherlyn Zheng
 
-🎓 M.Sc. student in Data Science at The University of Hong Kong.
-Previously earned a B.S. in Computer Science from Beijing Normal University and studied as an exchange student at UC Berkeley.
+🎓 M.Sc. student in Data Science at The University of Hong Kong
+Previously earned a B.S. in Computer Science from Beijing Normal University and studied as an exchange student at UC Berkeley
 
 ## 👨‍💻 About Me
 
@@ -19,10 +19,10 @@ Previously earned a B.S. in Computer Science from Beijing Normal University and 
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, C++, Java, MATLAB
-* **OS:** Linux
+* **Languages:** Python, C++, Java, MATLAB, R
+* **OS:** Windows, Linux
 * **Tools:** Git, GitHub
-* **Libraries:** OpenCV, NumPy, Pandas
+* **Libraries:** OpenCV, NumPy, Pandas, etc.
 
 ## 📫 Contact
 
